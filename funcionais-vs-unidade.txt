@@ -1,0 +1,3 @@
+Enquanto o teste de unidade testa uma unidade individual da aplicação e que não tenha integração com outra parte, como por exemplo um método,
+um teste funcional testa uma parte da funcionalidade de um sistema, ou seja, pode envolver muitos métodos e muitas classes.
+Por essa razão para cada teste funcional será implementado um ou mais testes de unidade.
